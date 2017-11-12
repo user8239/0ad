@@ -14,7 +14,6 @@
     <SelectionGroupName>units/kush_infantry_pikeman_b</SelectionGroupName>
 	<GenericName>Kushite Pikeman</GenericName>
     <SpecificName>Kushite Pikeman</SpecificName>
-    <History>.</History>
     <Icon>units/kush_infantry_pikeman.png</Icon>
 	<RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>

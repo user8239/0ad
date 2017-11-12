@@ -4,7 +4,6 @@
     <Civ>kush</Civ>
 	<GenericName>Noble Archer</GenericName>
     <SpecificName>Noble Archer</SpecificName>
-    <History>?</History>
     <Icon>units/kush_champion_archer.png</Icon>
   </Identity>
   <VisualActor>

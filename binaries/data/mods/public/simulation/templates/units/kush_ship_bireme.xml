@@ -3,7 +3,6 @@
   <Identity>
     <Civ>kush</Civ>
     <SpecificName>Light Warship</SpecificName>
-    <History>.</History>
     <Icon>units/ptol_ship_bireme.png</Icon>
   </Identity>
   <VisualActor>

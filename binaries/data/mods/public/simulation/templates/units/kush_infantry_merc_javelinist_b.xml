@@ -19,19 +19,12 @@
 	<SelectionGroupName>units/kush_merc_infantry_2</SelectionGroupName>
     <GenericName>Nuba Hunter</GenericName>
     <SpecificName>Nuba Hunter</SpecificName>
-    <History>?</History>
     <Icon>units/kush_infantry_merc_javelinist.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/kush_infantry_merc_javelinist_a</Entity>
   </Promotion>
-  <UnitMotion>
-    <WalkSpeed>11.0</WalkSpeed>
-    <Run>
-      <Speed>18.0</Speed>
-    </Run>
-  </UnitMotion>
   <VisualActor>
     <Actor>units/kushites/nuba_hunter.xml</Actor>
   </VisualActor>

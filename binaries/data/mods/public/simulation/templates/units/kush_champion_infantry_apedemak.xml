@@ -5,7 +5,6 @@
 	<GenericName>Meroe Temple Guard</GenericName>
     <SpecificName>Meroe Temple Guard</SpecificName>
     <VisibleClasses datatype="tokens">Axe</VisibleClasses>
-    <History>?</History>
     <Classes datatype="tokens">Apedemak</Classes>
     <Icon>units/ptol_champion_infantry.png</Icon>
   </Identity>

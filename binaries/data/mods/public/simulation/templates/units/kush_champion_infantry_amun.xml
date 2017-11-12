@@ -4,7 +4,6 @@
     <Civ>kush</Civ>
 	<GenericName>Napatan Temple Guard</GenericName>
     <SpecificName>Napatan Temple Guard</SpecificName>
-    <History>?</History>
     <Classes datatype="tokens">AmunGuard</Classes>
     <Icon>units/ptol_champion_infantry.png</Icon>
   </Identity>

@@ -30,7 +30,6 @@
     <SpecificName>Large Pyramid</SpecificName>
     <Classes datatype="tokens">-ConquestCritical PyramidLarge</Classes>
     <VisibleClasses datatype="tokens">-City Town Pyramid</VisibleClasses>
-    <History>?</History>
     <Classes datatype="tokens">Pyramid</Classes>
     <RequiredTechnology>phase_city</RequiredTechnology>
     <Icon>structures/kush_pyramid_big.png</Icon>

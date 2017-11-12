@@ -4,7 +4,6 @@
     <Civ>kush</Civ>
 	<GenericName>Noble Cavalry</GenericName>
     <SpecificName>Noble Cavalry</SpecificName>
-    <History>?</History>
     <Icon>units/ptol_champion_cavalry.png</Icon>
   </Identity>
   <VisualActor>

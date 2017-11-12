@@ -14,7 +14,6 @@
 	<SelectionGroupName>units/kush_infantry_javelinist_b</SelectionGroupName>
 	<GenericName>African Bushman</GenericName>
     <SpecificName>Thureophóros Akroboli̱stí̱s</SpecificName>
-    <History>?</History>
     <Icon>units/kush_infantry_javelinist.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>

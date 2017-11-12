@@ -3,7 +3,6 @@
   <Identity>
     <Civ>kush</Civ>
     <SpecificName>Panday</SpecificName>
-    <History>The Kushites learned to forge iron weapons from the Assyrians, who pushed the Kushites out of Egypt in the 7th century BC. Luckily for the Kushites, Nubia had large deposites of iron ore.</History>
   </Identity>
   <VisualActor>
     <Actor>structures/kushites/blacksmith.xml</Actor>

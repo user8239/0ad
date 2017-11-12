@@ -5,7 +5,6 @@
 	<GenericName>Eritrean War Elephant</GenericName>
     <SpecificName>Eritrean War Elephant</SpecificName>
     <Icon>units/cart_champion_cavalry.png</Icon>
-    <History>The Kingdom of Kush was renowned for its being able to procure a seemingly endless supply of these beasts. Bred and trained for war, these elephants are a true terror on the battlefield.</History>
   </Identity>
   <VisualActor>
     <Actor>units/kushites/champion_elephant.xml</Actor>

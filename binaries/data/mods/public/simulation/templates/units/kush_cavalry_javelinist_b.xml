@@ -5,7 +5,7 @@
 	<SelectionGroupName>units/kush_cavalry_javelinist_b</SelectionGroupName>
     <SpecificName>Napatan Light Cavalry</SpecificName>
     <GenericName>Napatan Light Cavalry</GenericName>
-    <History>.</History>
+    <RequiredTechnology>phase_village</RequiredTechnology>
     <Icon>units/kush_cavalry_javelinist.png</Icon>
   </Identity>
   <Promotion>

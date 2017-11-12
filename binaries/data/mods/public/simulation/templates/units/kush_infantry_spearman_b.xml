@@ -17,7 +17,7 @@
     <SelectionGroupName>units/kush_infantry_spearman_b</SelectionGroupName>
 	<GenericName>Nubian Spearman</GenericName>
     <SpecificName>Nubian Spearman</SpecificName>
-    <History>?</History>
+    <RequiredTechnology>phase_village</RequiredTechnology>
     <Tooltip>Faster than usual spearmen but has less hack armor.</Tooltip>
     <Icon>units/kush_infantry_spearman.png</Icon>
   </Identity>

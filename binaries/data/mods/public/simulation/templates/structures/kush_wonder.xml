@@ -13,8 +13,6 @@
   <Identity>
     <Civ>kush</Civ>
     <SpecificName>Temple of Victory</SpecificName>
-    <History>.</History>
-    <Tooltip>Bring glory to your civilization and add large tracts of land to your empire. Garrison units to heal them at an extremely quick rate.</Tooltip>
   </Identity>
   <Obstruction>
     <Static width="44.0" depth="60.0"/>

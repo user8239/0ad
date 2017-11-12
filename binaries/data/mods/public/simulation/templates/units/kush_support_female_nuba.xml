@@ -6,7 +6,6 @@
   <Identity>
     <SpecificName>Nuba Woman</SpecificName>
     <GenericName>Nuba Woman</GenericName>
-    <History>.</History>
     <Icon>units/kush_support_female_nuba.png</Icon>
 	<SelectionGroupName>units/kush_support_female_nuba</SelectionGroupName>
     <RequiredTechnology>kushites/unlock_females_house</RequiredTechnology>

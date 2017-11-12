@@ -25,7 +25,6 @@
 	<SelectionGroupName>units/kush_infantry_clubman_b</SelectionGroupName>
     <GenericName>Nuba Clubman</GenericName>
     <SpecificName>Nuba Clubman</SpecificName>
-    <History>?</History>
     <Icon>units/kush_infantry_clubman.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
@@ -33,9 +32,9 @@
     <Entity>units/kush_infantry_clubman_a</Entity>
   </Promotion>
   <UnitMotion>
-    <WalkSpeed>11.0</WalkSpeed>
+    <WalkSpeed op="mul">1.1</WalkSpeed>
     <Run>
-      <Speed>18.0</Speed>
+      <Speed op="mul">1.1</Speed>
     </Run>
   </UnitMotion>
   <VisualActor>

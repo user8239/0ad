@@ -8,7 +8,6 @@
     <GenericName>Nastasen</GenericName>
     <SpecificName>Nastasen Ankhkhare</SpecificName>
     <Classes datatype="tokens">Nastasen</Classes>
-    <History>During his reign, Nastasen defeated an invasion of Kush from Upper Egypt led by Khabbash, a local ruler of Upper Egypt who had campaigned against the Persians around 338 BC. The invasion was a failure and Nastasen acquired many fine boats and other booty during his victory.</History>
     <Icon>units/hele_hero_alexander.png</Icon>
     <Tooltip>Hero Special: "Gift of Warships" - Allows the training of Ptolemaic trireme-class ships.</Tooltip>
   </Identity>

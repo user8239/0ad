@@ -28,7 +28,6 @@
     <SpecificName>Small Pyramid</SpecificName>
     <Classes datatype="tokens">-ConquestCritical PyramidSmall</Classes>
     <VisibleClasses datatype="tokens">-City Village Pyramid</VisibleClasses>
-    <History>?</History>
     <Classes datatype="tokens">Pyramid</Classes>
     <RequiredTechnology>phase_town</RequiredTechnology>
     <Icon>structures/kush_pyramid_small.png</Icon>

@@ -13,14 +13,11 @@
     <GenericName>Blemmye Desert Raider</GenericName>
     <SpecificName>Blemmye Desert Raider</SpecificName>
     <Icon>units/kush_camel_javelinist.png</Icon>
-    <RequiredTechnology>unlock_cavalry_2</RequiredTechnology>
+    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/kush_camel_javelinist_a</Entity>
   </Promotion>
-  <Auras datatype="tokens">
-    units/camel_smell
-  </Auras>
   <Sound>
     <SoundGroups>
       <select>actor/fauna/animal/camel.xml</select>
