@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="special/player">
+  <Auras datatype="tokens">teambonuses/kush_player_team_bonus</Auras>
+  <EntityLimits>
+    <Limits>
+		<KushTrireme>1</KushTrireme>
+		<PyramidSmall>5</PyramidSmall>
+		<PyramidLarge>3</PyramidLarge>
+	</Limits>
+	<LimitChangers>
+		<KushTrireme>
+		  <Nastasen>100</Nastasen>
+		</KushTrireme>
+    </LimitChangers>
+  </EntityLimits>
+</Entity>

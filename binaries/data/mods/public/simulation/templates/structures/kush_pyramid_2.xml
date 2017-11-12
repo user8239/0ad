@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_special">
+  <Auras datatype="tokens">
+    structures/kush_pyramids_territory
+    structures/kush_pyramids_economic
+    structures/kush_pyramids_military
+  </Auras>
+  <BuildRestrictions>
+    <Category>PyramidLarge</Category>
+  </BuildRestrictions>
+  <Cost>
+    <BuildTime>300</BuildTime>
+    <Resources>
+      <food>0</food>
+      <wood>0</wood>
+      <stone>400</stone>
+      <metal>400</metal>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Square width="22.0" depth="26.0"/>
+    <Height>20.0</Height>
+  </Footprint>
+  <Health>
+    <Max>3000</Max>
+  </Health>
+  <Identity>
+    <Civ>kush</Civ>
+    <GenericName>Large Pyramid</GenericName>
+    <SpecificName>Large Pyramid</SpecificName>
+    <Classes datatype="tokens">-ConquestCritical PyramidLarge</Classes>
+    <VisibleClasses datatype="tokens">-City Town Pyramid</VisibleClasses>
+    <History>?</History>
+    <Classes datatype="tokens">Pyramid</Classes>
+    <RequiredTechnology>phase_city</RequiredTechnology>
+    <Icon>structures/kush_pyramid_big.png</Icon>
+  </Identity>
+  <ProductionQueue disable=""/>
+  <Obstruction>
+    <Static width="20.0" depth="24.0"/>
+  </Obstruction>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_temple_10.xml</select>
+      <constructed>interface/alarm/alarm_phase.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <BarWidth>6.0</BarWidth>
+    <BarHeight>0.6</BarHeight>
+    <HeightOffset>15.0</HeightOffset>
+  </StatusBars>
+  <Vision>
+    <Range>40</Range>
+  </Vision>
+  <VisualActor>
+    <Actor>structures/kushites/pyramid.xml</Actor>
+    <FoundationActor>structures/fndn_4x6.xml</FoundationActor>
+  </VisualActor>
+</Entity>

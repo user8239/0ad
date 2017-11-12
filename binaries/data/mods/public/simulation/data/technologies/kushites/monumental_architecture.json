@@ -1,0 +1,15 @@
+{
+	"genericName": "Monumental Architecture",
+	"description": ".",
+	"cost": {"food": 0, "wood": 500, "stone": 250, "metal": 250},
+	"requirements": {"all": [{"tech": "phase_city"}, {"civ": "kush"}]},
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "pers_hundred_columns.png",
+	"researchTime": 60,
+	"tooltip": "-50% build time for Civic Centres, Temples, Pyramids and Wonders.",
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 0.5 }
+	],
+	"affects": ["Civic !House", "Wonder", "Pyramid"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

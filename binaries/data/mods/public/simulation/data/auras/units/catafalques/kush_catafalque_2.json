@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Temple"],
+	"modifications": [
+		{ "value": "Health/RegenRate", "add": 1 },
+		{ "value": "GarrisonHolder/Max", "add": 10 }
+	],
+	"auraName": "Temple at Naqa",
+	"auraDescription": "As in all cultures, relgion played a significant part in the Meroë Empire. Shanakdakheto had the Temple buit around 160 BC as a symbol of the advancedness of Meroë. \n Temple's maximum garrison limit increased by 10, heal aura doubled."
+}

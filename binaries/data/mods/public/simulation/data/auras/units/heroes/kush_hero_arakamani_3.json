@@ -1,0 +1,13 @@
+{
+	"type": "range",
+	"radius": 60,
+	"affects": ["Healer"],
+	"affectedPlayers": ["Enemy"],
+	"modifications": [
+		{ "value": "Heal/Rate", "multiply": 0.5 },
+		{ "value": "Heal/HP", "multiply": 0.5 },
+		{ "value": "Heal/Range", "multiply": 0.5 }
+	],
+	"auraName": "Slaugther of the Faithful",
+	"auraDescription": "Enemy priests -50% heal range, rate and amount."
+}
