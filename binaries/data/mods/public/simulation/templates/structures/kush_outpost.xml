@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_structure_defense_outpost">
+<Entity parent="template_structure_defense_tower_outpost">
   <Identity>
     <Civ>kush</Civ>
     <SpecificName>Prophylax</SpecificName>
-    <History>*N/A*</History>
   </Identity>
   <VisualActor>
     <Actor>structures/kushites/outpost.xml</Actor>
