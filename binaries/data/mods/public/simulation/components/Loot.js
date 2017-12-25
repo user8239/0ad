@@ -12,14 +12,14 @@ Loot.prototype.Serialize = null; // we have no dynamic state to save
 
 Loot.prototype.GetXp = function()
 {
-	return Math.floor(ApplyValueModificationsToEntity("Loot/xp", +(this.template.xp || 0), this.entity));
+	return ApplyValueModificationsToEntity("Loot/xp", +(this.template["xp"] || 0), this.entity);
 };
 
 Loot.prototype.GetResources = function()
 {
 	let ret = {};
 	for (let res of Resources.GetCodes())
-		ret[res] = Math.floor(ApplyValueModificationsToEntity("Loot/" + res, +(this.template[res] || 0), this.entity));
+		ret[res] = ApplyValueModificationsToEntity("Loot/"+res, +(this.template[res] || 0), this.entity);
 	return ret;
 };
 
