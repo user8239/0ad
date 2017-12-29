@@ -5,7 +5,7 @@
     <variant file="biped/base_swordsman_shieldsmall_fast.xml">
       <mesh>skeletal/new/m_naked.dae</mesh>
       <props>
-		<prop actor="props/units/helmet/kush_metal_01.xml" attachpoint="helmet"/>
+		<prop actor="props/units/helmets/kush_metal_01.xml" attachpoint="helmet"/>
         <prop actor="props/units/heads/head_kush_nuba_painted.xml" attachpoint="head"/>
         <prop actor="props/units/heads/maur_earrings_1.xml" attachpoint="head"/>
         <prop actor="props/units/shields/nubian_shield_a.xml" attachpoint="shield"/>
