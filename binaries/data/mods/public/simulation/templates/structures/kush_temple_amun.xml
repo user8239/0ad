@@ -21,7 +21,6 @@
     <GenericName>Temple of Amun</GenericName>
     <SpecificName>Temple of Amun</SpecificName>
     <Tooltip>Train healers. Garrison units to heal them at a quick rate (3 HP per second). Research special technologies.</Tooltip>
-    <History>?</History>
     <Classes datatype="tokens">Amun</Classes>
   </Identity>
   <Footprint>
